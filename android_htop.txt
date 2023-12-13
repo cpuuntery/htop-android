@@ -1,0 +1,6 @@
+1-extract terminfo.zip
+
+2-export TERMINFO= Path to the extracted terminfo.zip
+
+like this
+export TERMINFO=/sdcard/SpeedSoftware/extracted/terminfo
