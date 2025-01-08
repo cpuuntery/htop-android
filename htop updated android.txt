@@ -1,0 +1,12 @@
+0-check $TERM variable 
+
+echo $TERM
+
+1-extract terminfo.zip
+
+2-TERM=xterm
+
+3-export TERMINFO= Path to the extracted terminfo.zip
+
+like this
+export TERMINFO=/sdcard/SpeedSoftware/extracted/terminfo
